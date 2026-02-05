@@ -1,0 +1,59 @@
+UserID,RiskScore,Reason
+U102,60,ML anomaly | Unusual login hour
+U102,60,ML anomaly | Unusual login hour
+U101,60,ML anomaly | Unusual login hour
+U101,60,ML anomaly | Unusual login hour
+U103,60,ML anomaly | Unusual login hour
+U101,60,ML anomaly | Unusual login hour
+U101,60,ML anomaly | Unusual login hour
+U101,60,ML anomaly | Unusual login hour
+U103,60,ML anomaly | Unusual login hour
+U103,60,ML anomaly | Unusual login hour
+U103,60,ML anomaly | Unusual login hour
+U102,60,ML anomaly | Excessive file access
+U102,60,ML anomaly | Unusual login hour
+U101,60,ML anomaly | Unusual login hour
+U102,60,ML anomaly | Unusual login hour
+U102,60,ML anomaly | Unusual login hour
+U101,60,ML anomaly | Unusual login hour
+U102,60,ML anomaly | Unusual login hour
+U101,60,ML anomaly | Unusual login hour
+U102,60,ML anomaly | Unusual login hour
+U102,60,ML anomaly | Unusual login hour
+U102,80,ML anomaly detected | Excessive file access | Mass data download
+U103,60,ML anomaly detected | Unusual login hour
+U101,60,ML anomaly detected | Unusual login hour
+U102,60,ML anomaly detected | Unusual login hour
+U101,60,ML anomaly detected | Unusual login hour
+U101,60,ML anomaly detected | Unusual login hour
+U102,60,ML anomaly detected | Unusual login hour
+U103,70,ML anomaly detected | Unusual login hour | Multiple failed logins
+U101,70,ML anomaly detected | Unusual login hour | Multiple failed logins
+U101,70,ML anomaly detected | Unusual login hour | Multiple failed logins
+U103,60,ML anomaly detected | Unusual login hour
+U101,60,ML anomaly detected | Unusual login hour
+U102,60,ML anomaly detected | Unusual login hour
+U101,60,ML anomaly detected | Unusual login hour
+U101,60,ML anomaly detected | Unusual login hour
+U102,60,ML anomaly detected | Unusual login hour
+U103,70,ML anomaly detected | Unusual login hour | Multiple failed logins
+U101,70,ML anomaly detected | Unusual login hour | Multiple failed logins
+U101,70,ML anomaly detected | Unusual login hour | Multiple failed logins
+U103,60,ML anomaly detected | Unusual login hour
+U101,60,ML anomaly detected | Unusual login hour
+U102,60,ML anomaly detected | Unusual login hour
+U101,60,ML anomaly detected | Unusual login hour
+U101,60,ML anomaly detected | Unusual login hour
+U102,60,ML anomaly detected | Unusual login hour
+U103,70,ML anomaly detected | Unusual login hour | Multiple failed logins
+U101,70,ML anomaly detected | Unusual login hour | Multiple failed logins
+U101,70,ML anomaly detected | Unusual login hour | Multiple failed logins
+U103,60,ML anomaly detected | Unusual login hour
+U101,60,ML anomaly detected | Unusual login hour
+U102,60,ML anomaly detected | Unusual login hour
+U101,60,ML anomaly detected | Unusual login hour
+U101,60,ML anomaly detected | Unusual login hour
+U102,60,ML anomaly detected | Unusual login hour
+U103,70,ML anomaly detected | Unusual login hour | Multiple failed logins
+U101,70,ML anomaly detected | Unusual login hour | Multiple failed logins
+U101,70,ML anomaly detected | Unusual login hour | Multiple failed logins

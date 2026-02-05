@@ -1,0 +1,8 @@
+UserID,LoginHour,FilesAccessed,DataDownloadedMB,FailedLogins
+U101,9,4,20,0
+U101,10,5,25,0
+U101,11,6,22,1
+U102,14,5,30,0
+U102,15,6,28,0
+U103,3,30,500,5
+U103,2,40,600,6
